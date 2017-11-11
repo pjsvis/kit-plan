@@ -6,4 +6,10 @@ Hiking kit planner.
 - calc total weight
 - other stuff
 
+```
+npm install
+npm install -g live-server
+live-server
+```
+
 
